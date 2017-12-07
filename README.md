@@ -3,4 +3,4 @@
  
 This project analyzes the **Stroop effect** using descriptive statistics to provide an intuition about the data, and inferential statistics to draw a conclusion based on the results. 
 
-This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/)
+This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/).
